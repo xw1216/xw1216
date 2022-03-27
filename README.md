@@ -1,14 +1,14 @@
-# Hi there 👋 I'm Wayne Bear.
+# Hi there 👋 I'm Wayne Bear
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xw1216&show_icons=true&theme=dracula" />
 
-## 😆 I am attracted by them now 
+## 😆 Attracted by them now 
 - .Net
 - RISC-V
 - Operating System
 - Computer Architecture
 
-## 🥱 I am hard-working on them recently : 
+## 🥱 Hard-working on them recently
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xw1216&layout=compact&exclude_repo=Outspace,xw1216.github.io,d2l-zh" />
 
@@ -18,7 +18,7 @@
 - Software Engineer Course
 
 
-## 📫 Contact me here :
+## 📫 Contact me here
 - Email [xw1216@outlook.com](mailto:xw1216@outlook.com)
 
 <br>
