@@ -4,7 +4,7 @@
 
 ## 😆 Attracted by them now 
 - .Net
-- RISC-V
+- React & TypeScript
 - Operating System
 - Computer Architecture
 
@@ -13,8 +13,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xw1216&layout=compact&exclude_repo=Outspace,xw1216.github.io,d2l-zh" />
 
 - Postgraduate Exam
-- ITELS Exam
-- Compiler Design
+- Database Application Design
+- Operating System Module Design
 - Software Engineer Course
 
 ## 🛰️ Personal site
