@@ -1,4 +1,5 @@
-# Hi there 👋 Here's Wayne.
+# Hi,👋 here's Wayne.
+Really hope to enhance techinical skills & improve personality.
 
 
 ## 😆 Attracted them now 
