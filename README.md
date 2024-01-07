@@ -1,21 +1,17 @@
-# Hi there 👋 I'm Wayne Bear
+# Hi there 👋 Here's Wayne.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xw1216&show_icons=true&theme=dracula" />
 
-## 😆 Attracted by them now 
-- .Net
-- React & TypeScript
-- Operating System
-- Computer Architecture
+## 😆 Attracted them now 
+- Deep Learning
+- fMRI CV
 
 ## 🥱 Hard-working on them recently
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xw1216&layout=compact&exclude_repo=Outspace,xw1216.github.io,d2l-zh" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xw1216&layout=compact" />
 
-- Postgraduate Exam
-- Database Application Design
-- Operating System Module Design
-- Software Engineer Course
+- Postgraduate Entrance Exam Interview
+- Database & Compiler Basic Concepts
 
 ## 🛰️ Personal site
 - [outspace.tech](https://outspace.tech)
