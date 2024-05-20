@@ -1,5 +1,5 @@
-# Hi,👋 here's Wayne.
-Really hope to enhance techinical skills & improve personality.
+# Hi,👋 here's Wayne @TJU-BCILAB
+Hope to enhance techinical skills.
 
 
 ## 😆 Attracted them now 
