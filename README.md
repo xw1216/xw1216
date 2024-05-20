@@ -8,8 +8,7 @@ Really hope to enhance techinical skills & improve personality.
 
 
 ## 🥱 Hard-working on them recently
-- Postgraduate Entrance Exam Interview
-- Database & Compiler Basic Concepts
+- TMS-EEG Experiment
 
 
 ## 🛰️ Personal site
